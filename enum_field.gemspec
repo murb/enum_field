@@ -24,7 +24,6 @@ Gem::Specification.new do |s|
      "rails/init.rb",
      "test/enum_field_test.rb"
   ]
-  s.has_rdoc = true
   s.homepage = %q{http://github.com/giraffesoft/enum_field}
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.1}
